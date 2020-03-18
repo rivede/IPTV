@@ -1,0 +1,283 @@
+#EXTINF:-1 tvg-logo="img/canales/la1.png" group-title="Disponible",LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8, 6, la_1, 1, la_1, 2, , 0, , 0, http://www.rtve.es/directo/la-1/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/la2.png" group-title="Disponible",LA 2
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8, 6, la_2, 1, la_2, 2, , 0, , 0, http://www.rtve.es/directo/la-2/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/antena3.png" group-title="Disponible",Antena 3
+https://livestartover.atresmedia.com/geoantena3/master.m3u8, 6, http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8, 6, antena_3, 1, antena_3, 2, , 0, http://www.atresplayer.com/directos/television/antena3/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/cuatro.png" group-title="Disponible",Cuatro
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8, 6, cuatro, 1, https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8, 6, cuatro, 2, , 0, https://www.mitele.es/directo/cuatro, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/telecinco.png" group-title="Disponible",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8, 6, https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8, 6, telecinco, 1, telecinco, 2, , 0, https://www.mitele.es/directo/telecinco, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/seis.png" group-title="Disponible",La Sexta
+https://pull2c-i.akamaized.net/lasexta/master.m3u8, 6, la_sexta, 1, la_sexta, 2, , 0, , 0, http://www.atresplayer.com/directos/television/lasexta/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/24h.png" group-title="Disponible",24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8, 6, http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8, 6, , 0, , 0, , 0, http://www.rtve.es/directo/canal-24h/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/neox.png" group-title="Disponible",Neox
+https://livestartover.atresmedia.com/geoneox/master.m3u8, 6, https://pull2b-i.akamaized.net/geoneox/master.m3u8, 6, neox, 1, neox, 2, , 0, http://www.atresplayer.com/directos/television, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/nova.png" group-title="Disponible",Nova
+https://livestartover.atresmedia.com/geonova/master.m3u8, 6, https://livestartover.atresmedia.com/geonova/master.m3u8, 6, nova, 2, neox, 1, , 0, http://www.atresplayer.com/directos/television, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/fdf.png" group-title="Series",FactorÃ­a de FicciÃ³n
+fdf, 2, fdf, 1, , 0, , 0, , 0, https://verlatvonline.com, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/a3s.png" group-title="Series",A3series
+https://livestartover.atresmedia.com/geoa3series/master.m3u8, 6, https://pull2a-i.akamaized.net/geoa3series/master.m3u8, 6, atreseries
+, 1, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mseries.png" group-title="Series",Movistar Series
+movistar_series, 2, movistar_series, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mseriesmania.png" group-title="Series",M. SeriesmanÃ­a
+movistar_seriesmania, 1, movistar_seriesmania, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/comedy.png" group-title="Series",Comedy Central
+comedy_central, 2, comedy_central, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/13tv.png" group-title="Autonomico",Trece
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8, 6, http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8, 6, , 0, , 0, , 0, http://trecetv.es/directo, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/viajar.png" group-title="Autonomico",Viajar
+viajar, 1, viajar, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/siete.png" group-title="Autonomico",7RM
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8, 6, http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8, 6, , 0, , 0, , 0, http://webtv.7tvregiondemurcia.es/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/telemadrid.png" group-title="Autonomico",TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8, 6, http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8, 6, , 0, , 0, , 0, http://www.telemadrid.es/emision-en-directo, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/laotra.png" group-title="Autonomico",La Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8, 6, http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8, 6, , 0, , 0, , 0, http://www.telemadrid.es/emision-en-directo-laotra, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/navarratv.png" group-title="Autonomico",Navarra TV
+https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8, 0, https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8, 0, , 0, , 0, , 0, http://www.natv.es/Directo, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/parlamento.png" group-title="Autonomico",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8, 6, http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8, 6, , 0, , 0, , 0, http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/rtvcyl.png" group-title="Autonomico",CyL 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8, 6, https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8, 6, , 0, , 0, , 0, http://www.rtvcyl.es/DirectoCylTV, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/sietevalencia.png" group-title="Autonomico",7 Valencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/chunklist_w1439718145.m3u8, 6, http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/chunklist_w1439718145.m3u8, 6, , 0, , 0, , 0, http://7televalencia.com/directo-7televalencia/, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/levantetv.png" group-title="Autonomico",LevanteTV
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/media_w1648029392_92746.m3u8, 6, http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/media_w1648029392_92746.m3u8, 6, , 0, , 0, , 0, http://www.levantetv.es/default.jsp, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/ochotv.png" group-title="Autonomico",8tv
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8, 6, http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8, 6, , 0, , 0, , 0, http://www.8tv.cat/directe/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/tv3.png" group-title="Autonomico",TV3 Cat
+https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist.m3u8, 6, https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist.m3u8, 6, , 0, , 0, , 0, http://www.ccma.cat/tv3/directe/tv3/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/33.png" group-title="Autonomico",Canal 33
+https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist.m3u8, 6, https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist.m3u8, 6, , 0, , 0, , 0, http://www.ccma.cat/tv3/directe/super3/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/aragon.png" group-title="Autonomico",AragÃ³n TV Int
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8, 6, https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8, 6, , 0, , 0, , 0, http://www.aragontelevision.es/directo, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/eitb.png" group-title="Autonomico",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8, 6, http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8, 6, , 0, , 0, , 0, http://www.eitb.eus/es/television/etb-sat/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/canalsur.png" group-title="Autonomico",Canal Sur
+https://www.youtube.com/watch?v=fTrRaFlNzNw, 0, https://www.youtube.com/watch?v=fTrRaFlNzNw, 0, , 0, , 0, , 0, http://www.canalsur.es/tv_directo-1193.html, 1, 2, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/tvg.png" group-title="Autonomico",TV Galicia
+http://europa-crtvg.flumotion.com/playlist.m3u8, 6, http://europa-crtvg.flumotion.com/playlist.m3u8, 6, , 0, , 0, , 0, http://www.crtvg.es/tvg/tvg-en-directo, 1, 2, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mdisney.png" group-title="Infantil",M. Disney
+movistar_disney, 1, movistar_disney, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/babytv.png" group-title="Infantil",Baby TV
+baby_tv, 2, baby_tv, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/disneychannel.png" group-title="Infantil",Disney Channel
+disney_channel, 1, disney_channel, 2, http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8, 6, , 0, , 0, http://tv.disney.es/disney-channel, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/boing.png" group-title="Infantil",Boing
+boing, 1, boing, 2, http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8, 6, , 0, , 0, https://www.mitele.es/directo/boing, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/clan.png" group-title="InfantÃ­l",Clan TVE
+clan, 2, clan, 1, , 0, , 0, , 0, http://www.rtve.es/infantil/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/disneyjunior.png" group-title="InfantÃ­l",Disney Junior
+disney_junior, 1, disney_junior, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/panda.png" group-title="InfantÃ­l",Canal Panda
+canal_panda, 1, canal_panda, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/a3s.png" group-title="Infantil",A3series
+https://livestartover.atresmedia.com/geoa3series/master.m3u8, 6, https://pull2a-i.akamaized.net/geoa3series/master.m3u8, 6, atreseries, 1, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/nick.png" group-title="Infantil",NICK JR
+nick_jr, 1, nick_jr, 2, , 0, , 0, , 0, http://www.nickelodeon.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/nick.png" group-title="Infantil",Nickelodeon
+nickelodeon, 2, nickelodeon, 1, , 0, , 0, , 0, http://www.nickelodeon.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/disneyxd.png" group-title="Infantil",Disney XD
+disney_xd, 1, disney_xd, 2, , 0, , 0, , 0, http://disneyxd.disneylatino.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/paramountchannel.png" group-title="Cine",Paramount Channel
+http://paramount.live.flumotion.com/live/chunks.m3u8, 6, http://paramount.live.flumotion.com/live/chunks.m3u8, 6, paramount_channel, 1, , 0, , 0, http://www.paramountchannel.es/programacion/en-directo, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/axn.png" group-title="Cine",AXN
+axn, 2, axn, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/axnwhite.png" group-title="Cine",AXN White
+axn_white, 1, axn_white, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/holly.png" group-title="Cine",Hollywood
+hollywood, 1, hollywood, 2, , 0, , 0, , 0, http://canalhollywood.es, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/siete.png" group-title="Series",Gran Hermano Vip
+gh_vip_7_plus, 1, , 0, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="" group-title="Disponible",Brazzers
+brazzers, 1, brazzers, 2, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/amc.png" group-title="Cine",AMC
+amc, 2, amc, 1, , 0, , 0, , 0, http://www.amctv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/tcm.png" group-title="Cine",TCM
+tcm, 2, tcm, 1, , 0, , 0, , 0, http://www.canaltcm.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/calle13.png" group-title="Cine",Calle 13
+calle_13, 1, calle_13, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/somos.png" group-title="Cine",Somos
+somos, 2, somos, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/drama.png" group-title="Cine",M. Drama
+movistar_drama, 1, movistar_drama, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mestrenos.png" group-title="Cine",Movistar Estrenos
+movistar_estrenos, 2, movistar_estrenos, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mdocroll.png" group-title="Cine",M.CineDoc&Roll
+movistar_cinedocroll, 1, movistar_cinedocroll, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mcomedia.png" group-title="Cine",Movistar Comedia
+movistar_comedia, 2, movistar_comedia, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/maccion.png" group-title="Cine",Movistar AcciÃ³n
+movistar_accion, 1, movistar_accion, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/maccion.png" group-title="Cine",Movistar Cine N
+movistar_cine_espanol, 2, movistar_cine_espanol, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/malquiler.png" group-title="Cine",Alquiler  1
+alquiler_1, 1, alquiler_1, 2, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/malquiler.png" group-title="Cine",Alquiler  2
+alquiler_2, 2, alquiler_2, 1, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/malquiler.png" group-title="Cine",Alquiler  3
+alquiler_3, 1, alquiler_3, 2, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/malquiler.png" group-title="Cine",Alquiler  4
+alquiler_4, 2, alquiler_4, 1, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/malquiler.png" group-title="Cine",Alquiler  5
+alquiler_5, 1, alquiler_5, 2, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/malquiler.png" group-title="Cine",Alquiler  6
+alquiler_6, 2, alquiler_6, 1, , 0, , 0, , 0, , 0, 0, 1, 1, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/xtrm.png" group-title="Cine",Xtrm
+xtrm, 1, xtrm, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/m0.png" group-title="Disponible",#0
+0, 2, 0, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/dark.png" group-title="Disponible",Dark
+dark, 1, dark, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/sundance.png" group-title="Disponible",Sundance
+sundance, 2, sundance, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/fox.png" group-title="Disponible",Fox
+fox, 1, fox, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/foxlife.png" group-title="Disponible",Fox Life
+fox_life, 1, fox_life, 2, , 0, , 0, , 0, https://www.foxtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/tnt.png" group-title="Disponible",TNT
+tnt, 2, tnt, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/syfy.png" group-title="Disponible",SYFY
+syfy, 1, syfy, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/cosmo.png" group-title="Cine",COSMO
+cosmo, 2, cosmo, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/ten.png" group-title="Disponible",Ten
+ten, 1, ten, 2, , 0, , 0, , 0, http://tentv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/dkiss.png" group-title="Disponible",DKISS
+dkiss, 1, dkiss, 2, , 0, , 0, , 0, http://www.dkiss.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mega.png" group-title="Disponible",Mega
+https://livestartover.atresmedia.com/geomega/master.m3u8, 6, mega, 1, https://livestartover.atresmedia.com/geomega/master.m3u8, 6, mega, 2, , 0, http://www.atresplayer.com/directos/television/mega/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/energy.png" group-title="Disponible",Energy
+energy, 2, energy, 1, , 0, , 0, , 0, https://www.energytv.es/en-directo/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/bemad.png" group-title="Disponible",BEMAD
+be_mad, 1, be_mad, 2, , 0, , 0, , 0, https://www.bemad.es/endirecto/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/divinity.png" group-title="Disponible",Divinity
+divinity, 2, divinity, 1, , 0, , 0, , 0, https://www.divinity.es/endirecto/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/ci.png" group-title="Documentales",Crimen + InvestigaciÃ³n
+crimeninvestigacion, 1, crimeninvestigacion, 2, , 0, , 0, , 0, http://citv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/blaze.png" group-title="Documentales",Blaze
+blaze, 2, blaze, 1, , 0, , 0, , 0, http://aetv.es/, 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/dmax.png" group-title="Documentales",Discovery Max
+dmax, 1, dmax, 2, , 0, , 0, , 0, http://www.dmax.marca.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/dchanel.png" group-title="Documentales",Discovery
+discovery_channel, 2, discovery_channel, 1, , 0, , 0, , 0, https://www.discoverychannel.es/video, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/historia.png" group-title="Documentales",Historia
+historia, 1, historia, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/natgeo.png" group-title="Documentales",National Geographic
+national_geographic_channel, 2, national_geographic_channel, 1, , 0, , 0, , 0, https://www.nationalgeographic.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/natwild.png" group-title="Documentales",Nat Geo Wild
+national_geographic_wild, 1, national_geographic_wild, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/odisea.png" group-title="Documentales",Odisea
+odisea, 2, odisea, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mtv.png" group-title="Musica",MTV
+mtv, 1, mtv, 2, , 0, , 0, , 0, http://www.mtv.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/hittv.png" group-title="Musica",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8, 6, http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8, 6, , 0, , 0, , 0, http://www.hittv.es/, 1, 2, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/cocina.png" group-title="Cocina",Canal Cocina
+canal_cocina, 2, canal_cocina, 1, , 0, , 0, , 0, http://canalcocina.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/decasa.png" group-title="Documentales",Canal Decasa
+decasa, 1, decasa, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/liga123.png" group-title="Deportes",La Liga TV
+la_liga_tv_bar, 5, la_liga_tv_bar, 3, la_liga_tv_bar, 2, la_liga_tv_bar, 4, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/esport3.png" group-title="Deportes",Esport 3
+https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist.m3u8, 6, https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist.m3u8, 6, , 0, , 0, , 0, http://www.ccma.cat/tv3/directe/esport3/, 1, 1, 0, 0, 1, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/sfc.png" group-title="Deportes",Sevilla FC TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8, 6, https://streamamghdl-lh.akamaihd.net/i/0wzckw85c_1@723099/master.m3u8, 6, , 0, , 0, , 0, http://live.sevillafc.es/, 1, 0, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/betistv.png" group-title="Deportes",Betis TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8?ks=NjNmMDk1ODQyNzEzNWNkMzYyZmM5ZWFjYTdhYTc2YmFkNWQyM2Y2YXwzMDAxMzE0OzMwMDEzMTQ7MTU3ODI3MDc4MDswOzE1NzgxODQzODA7O3N2aWV3OjBfd3pja3c4NWMsc2V0cm9sZTpQTEFZQkFDS19CQVNFX1JPTEUsd2lkZ2V0OjE7Ow==, 6, https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8, 6, , 0, , 0, , 0, http://www.realbetisbalompie.es/es/rtvbetis/, 1, 1, 0, 0, 1, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mgolf.png" group-title="Deportes",Movistar Golf
+movistar_golf, 2, movistar_golf, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/vamos.png" group-title="Deportes",#Vamos bar
+vamos, 1, vamos, 2, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/realmadridtv.png" group-title="Deportes",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8, 6, real_madrid_tv, 1, real_madrid_tv, 2, , 0, , 0, https://www.realmadrid.com/real-madrid-tv, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/eurosport.png" group-title="Deportes",Eurosport 1
+eurosport, 3, eurosport, 2, eurosport, 5, eurosport, 4, , 0, https://www.eurosport.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/eurosport.png" group-title="Deportes",Eurosport 2
+eurosport_2, 3, eurosport_2, 2, eurosport_2, 4, eurosport_2, 5, , 0, https://www.eurosport.es/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/tdp.png" group-title="Deportes",Teledeporte
+teledeporte, 1, teledeporte, 2, , 0, , 0, , 0, http://www.rtve.es/directo/teledeporte/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/caza.png" group-title="Deportes",Caza y Pesca
+caza_y_pesca, 2, caza_y_pesca, 1, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/iberalia.png" group-title="Deportes",Iberalia TV
+iberalia, 1, iberalia, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN
+dazn, 5, dazn, 3, dazn, 1, dazn, 4, dazn, 2, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 1
+dazn_1, 3, dazn_1, 5, dazn_1, 1, dazn_1, 2, azn_1, 4, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 2
+dazn_2, 3, dazn_2, 4, dazn_2, 1, , 0, , 0, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 3
+dazn_3, 5, dazn_3, 3, dazn_3, 1, , 0, , 0, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 4
+dazn_4, 4, dazn_4, 3, dazn_4, 1, , 0, , 0, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 5
+dazn_5, 3, dazn_5, 4, dazn_5, 1, , 0, , 0, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 6
+dazn_6, 4, dazn_6, 3, dazn_6, 1, , 0, , 0, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/dazn.png" group-title="Online solo en eventos",DAZN 7
+dazn_7, 4, dazn_7, 5, dazn_7, 1, , 0, , 0, , 0, 1, 1, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/formula1.png" group-title="Deportes",Movistar FÃ³rmula 1
+movistar_formula_1, 3, movistar_formula_1, 4, movistar_formula_1, 1, movistar_formula_1, 2, movistar_formula_1, 5, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/toros.png" group-title="Deportes",Toros
+toros_tv, 1, toros_tv, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/goltv.png" group-title="Deportes",GOL
+gol_tv, 2, gol_tv, 1, , 0, , 0, , 0, https://www.goltelevision.com/, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mdeportes1.png" group-title="Deportes",Movistar Deportes 1
+movistar_deportes, 3, movistar_deportes, 4, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/vamos.png" group-title="Deportes",#Vamos
+vamos, 5, vamos, 3, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mesport.png" group-title="Deportes",M. eSports
+m_esport, 4, m_esport, 5, , 0, , 0, , 0, , 0, 0, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mligacampeones.png" group-title="Deportes",M. Liga de Campeones
+movistar_liga_de_campeones, 3, movistar_liga_de_campeones, 5, movistar_liga_de_campeones, 4, movistar_liga_de_campeones, 2, movistar_liga_de_campeones, 1, https://newplay.site/reproductor.html, 1, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mligacampeones.png" group-title="Deportes",M. Liga de Campeones 2
+movistar_liga_de_campeones_1, 5, movistar_liga_de_campeones_1, 3, movistar_liga_de_campeones_1, 4, movistar_liga_de_campeones_1, 1, movistar_liga_de_campeones_1, 2, , 0, 2, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mligacampeones.png" group-title="Deportes",M. Liga de Campeones 3
+movistar_liga_de_campeones_2, 4, movistar_liga_de_campeones_2, 3, movistar_liga_de_campeones_2, 5, , 0, , 0, , 0, 2, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mligacampeones.png" group-title="Deportes",M. Liga de Campeones 4
+movistar_liga_de_campeones_7, 3, movistar_liga_de_campeones_7, 4, movistar_liga_de_campeones_7, 5, , 0, , 0, , 0, 2, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mligacampeones.png" group-title="Deportes",M. Liga de Campeones 5
+movistar_liga_de_campeones_5, 5, movistar_liga_de_campeones_5, 4, movistar_liga_de_campeones_5, 3, , 0, , 0, , 0, 2, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mpartidazo.png" group-title="Deportes",M. Liga de Campeones 6
+movistar_liga_de_campeones_3, 5, movistar_liga_de_campeones_3, 3, movistar_liga_de_campeones_3, 4, , 0, , 0, , 0, 2, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/barcatv.png" group-title="Deportes",BarÃ§a TV
+barsa_tv, 1, barsa_tv, 2, , 0, , 0, , 0, , 0, 1, 0, 0, 0, 0, 0
+#EXTINF:-1 tvg-logo="img/canales/mliga.png" group-title="Deportes",M. LaLiga
+movistar_laligaaa, 4, movistar_laligaaa, 5, movistar_laligaaa, 3, movistar_laligaaa, 1, movistar_laligaaa, 2, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mliga.png" group-title="Deportes",M. LaLiga 1
+movistar_laliga_1, 3, movistar_laliga_1, 2, movistar_laliga_1, 1, movistar_laliga_1, 4, movistar_laliga_1, 5, , 0, 1, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mliga.png" group-title="Online solo en eventos",M. LaLiga 2
+movistar_laliga_2, 5, movistar_laliga_2, 3, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mliga.png" group-title="Online solo en eventos",M. LaLiga 3
+movistar_laliga_3, 4, movistar_laliga_3, 3, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mliga.png" group-title="Online solo en eventos",M. LaLiga 4
+movistar_laliga_4, 5, movistar_laliga_4, 3, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/mliga.png" group-title="Online solo en eventos",M. LaLiga 5
+movistar_laliga_5, 3, movistar_laliga_5, 5, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 0, 1
+#EXTINF:-1 tvg-logo="img/canales/playboy.png" group-title="Adultos",Playboy TV
+playboy, 1, playboy, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 1
+#EXTINF:-1 tvg-logo="img/canales/hot.png" group-title="Adultos",Hot
+hot, 2, hot, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/dorcel.png" group-title="Adultos",Dorcel
+dorcel, 1, dorcel, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/hustler.png" group-title="Adultos",Hustler
+husteler, 2, husteler, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/redlight.png" group-title="Adultos",Redlight
+redlight, 1, redlight, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/pent.png" group-title="Adultos",Penthouse
+penthouse, 2, penthouse, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/pent.png" group-title="Adultos",Penthouse 1
+dusk, 1, dusk, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/pent.png" group-title="Adultos",Penthouse 2
+sextreme, 2, sextreme, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/brazzers.png" group-title="Adultos",Brazzers
+brazzers, 1, brazzers, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/red_xxx.png" group-title="Adultos",Red XXX
+alba_xxx, 2, alba_xxx, 1, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
+#EXTINF:-1 tvg-logo="img/canales/venus.png" group-title="Adultos",Venus
+venus, 1, venus, 2, , 0, , 0, , 0, , 0, 2, 0, 0, 0, 1, 0
